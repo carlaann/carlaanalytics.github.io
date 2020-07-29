@@ -1,0 +1,132 @@
+/* Custom CSS
+----------------------------- */
+/*
+font-family: 'Poppins', sans-serif;
+*/
+
+
+html{}
+body{ font-family: 'Poppins' !important;}
+.fancy {line-height: 0.5;text-align: center;overflow:hidden;}
+.fancy span {display: inline-block;position: relative;}
+.fancy span:before,
+.fancy span:after {content: "";position: absolute;height:2px;top:50%;margin-top: -4px;width:110px; background:#000;}
+.fancy span:before {right: 100%;margin-right: 15px;width:51px;}
+.fancy span:after {left: 100%;margin-left: 15px;}
+.fancy.both-line span:before,
+.fancy.both-line span:after{width:95px; background:#1c1c1c;}
+.fa{ font-family: 'FontAwesome' !important;font-weight: 400 !important; }
+
+
+
+body .site_page{ width:100%; overflow:hidden;}
+.site_page .site-masthead{position: absolute;left: 0;right: 0;top: 75px; z-index: 1; padding: 0;}
+.site_page .site-masthead.navbar_fixed{position: fixed;width: 100%;top: -70px;left: 0;right: 0;background: #fff;box-shadow: 0 13px 9px -7px rgba(164, 164, 164, 0.41);-webkit-transform: translateY(70px);-ms-transform: translateY(70px);transform: translateY(70px);-webkit-transition: background 500ms ease, -webkit-transform 500ms ease;transition: background 500ms ease, -webkit-transform 500ms ease;-o-transition: transform 500ms ease, background 500ms ease;transition: transform 500ms ease, background 500ms ease;transition: transform 500ms ease, background 500ms ease, -webkit-transform 500ms ease;-webkit-transition: transform 500ms ease, background 500ms ease;-webkit-backface-visibility: hidden; z-index:1023;}    
+
+.site_page .navbar-default{ background-color:transparent;margin-bottom:0; border:none; border-radius:0; box-shadow:none;background-image:none;}
+.site_page .navbar-default .navbar-wrapper{ margin-top: 15px; }
+.site_page .navbar .navbar-brand{ height:auto; padding:7px 0; position:relative; z-index:1;font:700 50px/52px 'Poppins';color: #fff; text-shadow: none; text-transform: uppercase;}
+.site_page .navbar .navbar-right{ font-size: 0; margin-top: 0;position: relative; z-index: 1; margin-right: 0 !important; }
+.site_page .navbar .navbar-right li{ display: inline-block; font:500 16px 'Poppins';color: #fff; text-transform: uppercase;}
+.site_page .navbar .navbar-right li a,
+.site_page .navbar .navbar-right li a:hover,
+.site_page .navbar .navbar-right li a:active,
+.site_page .navbar .navbar-right li a:focus{padding: 9px 20px; border:none;color: #fff;outline:none; text-shadow:none;-webkit-transition: all 0.4s ease-in-out;-moz-transition: all 0.4s ease-in-out;-ms-transition: all 0.4s ease-in-out;-o-transition: all 0.4s ease-in-out;transition: all 0.4s ease-in-out; display: inline-block;text-decoration:none;border-radius: 0px; }
+.site_page .navbar .navbar-right li a:hover{ background-color: transparent;color: #f1f1f1;}
+
+.site_page .banner_wrapper{ position: relative; }
+
+
+
+
+/*---footer section-----*/
+.footerContainer{ background: #212121; }
+
+.footerContainer .ftr_mdll_container {padding: 60px 0 45px;}
+.ftr_mdll_container aside h3.widget-title{font:500 30px/30px 'Roboto';color: #dbdbdb; margin-bottom:16px; text-transform: uppercase;}
+.ftr_mdll_container aside h3 > span{color: #1b76bb; display: block; font-weight: 300;font:300 20px/23px 'Roboto';color: #f3f3f3;}
+.ftr_mdll_container aside p{ margin:0 0 9px; padding:0;font:400 14px/23px 'Roboto';color: #a3a3a3; }
+.ftr_mdll_container ul.fa-ul{}
+.ftr_mdll_container ul.fa-ul li{font:400 14px/23px 'Roboto';color: #a3a3a3;margin-bottom: 4px;}
+.ftr_mdll_container ul.fa-ul li a{ text-decoration: none; color: #a3a3a3; }
+.ftr_mdll_container ul.fa-ul li:not(:last-child) > .fa{ font-size: 17px; }
+.ftr_mdll_container ul.fa-ul li:not(:last-child){ display: none !important; }
+/*.ftr_mdll_container ul.cnss-social-icon li a{ display: block; width: 48px; height: 48px; }
+.ftr_mdll_container ul.cnss-social-icon li.cn-fa-linkedin a{ background: url('https://carlaann.github.io/carlah.github.io/wp-content/uploads/2020/07/ic-linkdin.png') no-repeat center center; }
+.ftr_mdll_container ul.cnss-social-icon li.cn-fa-twitter a{ background: url('https://carlaann.github.io/carlah.github.io/wp-content/uploads/2020/07/ic-tweet.png') no-repeat center center; }
+.ftr_mdll_container ul.cnss-social-icon li a img{display:none !important;}
+.ftr_mdll_container ul.cnss-social-icon li:not(:last-child){ margin-right: 4px !important; }*/
+
+.ftrBottomContainer {padding: 19px 0 18px;background:#062493;}
+p.copyRight{font:400 15px/20px 'Roboto';color: #fff;}
+
+.service_area .service_wraper{ position: relative; padding-left: 122px; margin-bottom: 10px; }
+.service_wraper .pull-left{ position: absolute; left: 0; top: 0; width: 104px; }
+.service_wraper h3{ clear: none;font:700 18px/23px 'Poppins';color: #1c1c1c; margin: 0 0 8px; padding: 0; text-transform: uppercase; }
+.service_wraper p{ font:400 15px/23px 'Poppins';color: #737272; margin: 0; padding: 0; text-align: justify; }
+.service_wraper p a{ text-decoration: none;color: #737272; }
+.service_wraper ul{ font-size: 0; margin: 7px 0 0; padding: 0;}
+.service_wraper ul::before{ content: 'Libraries:'; display: block;font:600 15px/23px 'Poppins';color: #737272; }
+.service_wraper ul li{ display: inline-block; padding: 0 25px 0 0; font:400 15px/23px 'Poppins';color: #737272;}
+.service_wraper ul li::before{ content: '\f00c'; color: #4054B2; margin-right: 7px;font-family: 'FontAwesome' !important;font-weight: 400 !important; }
+
+.toptouch.elementor-element.elementor-widget{ margin-bottom: 0; }
+
+.onlineform .form-control{background-image: none;
+    background-color: #fff;
+    border: 2px solid #424242;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    font: 600 15px 'Poppins';
+    color: #1c1c1c;
+    padding: 6px 23px;
+    height: 70px; box-shadow: none;}
+.onlineform textarea.form-control{ height: 180px; }
+.onlineform .btn,
+.onlineform .btn:hover,
+.onlineform .btn:active,
+.onlineform .btn:focus{font: 700 25px 'Poppins';color: #fff;padding: 11px 80px;background-color: #34a6ed;background-image: none;border: none;-webkit-border-radius: 35px;-moz-border-radius: 35px;border-radius: 35px; text-transform: uppercase; outline: none;text-shadow: none; box-shadow: none;}
+
+.blog_area .blog_wrapper{ margin-bottom: 45px; padding-bottom: 45px; border-bottom: 1px solid #dedede; }
+.blog_area .blog_wrapper.last{ border-bottom: none; }
+.blog_wrapper img{border: 1px solid #787676; box-shadow: none;}
+.blog_wrapper h3{font: 600 30px/32px 'Poppins';color: #181d1b;margin: 0 0 10px;}
+.blog_wrapper p{font: 400 15px/25px 'Poppins';color: #5c5b5b;margin: 0;}
+
+
+/* Responsive
+------------------------------------- */
+@media (min-width: 1230px) {
+	.container{ width: 1200px; }
+	.site_page .banner_wrapper > img{ max-width: none; width: 100%; }
+}
+@media (min-width: 1200px) and (max-width: 1229px) {
+	
+}
+@media (min-width: 1200px) {
+	
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	
+}
+@media (min-width: 768px) {
+	.ftr_mdll_container aside:last-child{ float: right; width: 20%; }
+	.row.vertical-align{display: flex;align-items: center; }
+	.blog_wrapper.even img{ margin-left: auto; margin-right: 0; }
+}
+@media (max-width: 767px) {	
+	
+}
+@media (min-width: 580px) and (max-width: 767px) {
+	
+}
+@media (min-width: 401px) and (max-width: 579px) {	
+	
+}
+@media (max-width: 400px) {
+	
+}
