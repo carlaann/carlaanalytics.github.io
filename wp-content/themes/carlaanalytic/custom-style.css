@@ -94,6 +94,12 @@ p.copyRight{font:400 15px/20px 'Roboto';color: #fff;}
 .blog_wrapper h3{font: 600 30px/32px 'Poppins';color: #181d1b;margin: 0 0 10px;}
 .blog_wrapper p{font: 400 15px/25px 'Poppins';color: #5c5b5b;margin: 0;}
 
+.elementor-element.librarylist ul > li::before,
+.elementor-element.librarylist ul > li::after{ content: ''; display: table; height: 0 !important; clear: both; }
+.elementor-element.librarylist ul > li{ padding: 0 30px 0 0 !important; margin: 0 0 0 3px !important; position: relative; }
+.elementor-element.librarylist ul > li > .elementor-icon-list-icon{ display: inline-block; width: 18px; position: absolute; left: auto; right:6px; top:0; }
+.elementor-element.resumelink p a{ color: #4054b2; }
+
 
 /* Responsive
 ------------------------------------- */
