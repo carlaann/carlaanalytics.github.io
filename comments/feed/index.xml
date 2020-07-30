@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Carla Harrell	</title>
-	<atom:link href="http://carlaann.github.io/carlaanalytics.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://carlaann.github.io/carlaanalytics.github.io</link>
+	<atom:link href="https://carlaann.github.io/carlaanalytics.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://carlaann.github.io/carlaanalytics.github.io</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 30 Jul 2020 09:36:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>http://carlaann.github.io/carlaanalytics.github.io/hello-world/#comment-1</link>
+		<link>https://carlaann.github.io/carlaanalytics.github.io/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 30 Jul 2020 09:36:17 +0000</pubDate>
-		<guid isPermaLink="false">http://carlaann.github.io/carlaanalytics.github.io/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://carlaann.github.io/carlaanalytics.github.io/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
