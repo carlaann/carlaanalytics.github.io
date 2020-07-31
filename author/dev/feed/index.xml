@@ -1,5 +1,3 @@
-<br />
-<b>Warning</b>:  mysqli_query(): (HY000/1036): Table 'E:\xampp\tmp\#sql2814_29d_0.MAI' is read only in <b>E:\xampp\htdocs\carlaanalytics\wp-includes\wp-db.php</b> on line <b>2024</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -28,7 +26,8 @@
 		
 		<dc:creator><![CDATA[dev]]></dc:creator>
 		<pubDate>Thu, 30 Jul 2020 11:38:01 +0000</pubDate>
-				<guid isPermaLink="false">https://carlaann.github.io/carlaanalytics.github.io/?p=63</guid>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://carlaann.github.io/carlaanalytics.github.io/?p=63</guid>
 
 					<description><![CDATA[Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.]]></description>
 										<content:encoded><![CDATA[<p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.</p>
@@ -46,7 +45,8 @@
 		
 		<dc:creator><![CDATA[dev]]></dc:creator>
 		<pubDate>Thu, 30 Jul 2020 11:37:28 +0000</pubDate>
-				<guid isPermaLink="false">https://carlaann.github.io/carlaanalytics.github.io/?p=61</guid>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://carlaann.github.io/carlaanalytics.github.io/?p=61</guid>
 
 					<description><![CDATA[In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum.</p>
@@ -64,7 +64,8 @@
 		
 		<dc:creator><![CDATA[dev]]></dc:creator>
 		<pubDate>Thu, 30 Jul 2020 11:36:52 +0000</pubDate>
-				<guid isPermaLink="false">https://carlaann.github.io/carlaanalytics.github.io/?p=59</guid>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://carlaann.github.io/carlaanalytics.github.io/?p=59</guid>
 
 					<description><![CDATA[Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.</p>
@@ -82,7 +83,8 @@
 		
 		<dc:creator><![CDATA[dev]]></dc:creator>
 		<pubDate>Thu, 30 Jul 2020 11:36:08 +0000</pubDate>
-				<guid isPermaLink="false">https://carlaann.github.io/carlaanalytics.github.io/?p=56</guid>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://carlaann.github.io/carlaanalytics.github.io/?p=56</guid>
 
 					<description><![CDATA[Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.]]></description>
 										<content:encoded><![CDATA[<p>Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
@@ -100,7 +102,8 @@
 		
 		<dc:creator><![CDATA[dev]]></dc:creator>
 		<pubDate>Thu, 30 Jul 2020 09:36:17 +0000</pubDate>
-				<guid isPermaLink="false">https://carlaann.github.io/carlaanalytics.github.io/?p=1</guid>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://carlaann.github.io/carlaanalytics.github.io/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
